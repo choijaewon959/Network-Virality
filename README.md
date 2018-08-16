@@ -44,3 +44,20 @@ blue: a person who has not seen the post yet.
 # Results
 * Number of green Nodes at the end = the total number of people who have seen the post
 * The most significant input = initial outbreak size
+![results]https://github.com/choijaewon959/Network-Virality/blob/master/Simulation_result.PNG
+
+# Limitations
+One is that the population is assumed to be a mere 500 in our simulation model. In reality, however, the total number of Twitter users have reached 330 million as of the third quarter of 2017. Similarly, the initial size and the probability of reposting in the model may deviate significantly from the real-world values, as they are chosen based on our subjective judgements. Another limitation is that, in our model, every node has the same number of node degree. On the contrary, the real world resembles a small-world network, where a few people are hugely influential while the majority have little influence. Also, as we all know, people are less likely to share a post as time elapses. The value we have chosen for this decrease in the probability of sharing may not correspond to the real-world value.
+
+# References
+The Structural Virality of Online Diffusion (Sharad Goel, Ashton Anderson, Jake Hofman, Duncan J. Watts, 2016)
+
+McPherson, M., Lovin, L. & Cook, J. Birds of a feather: Homophily in social 􀀀networks. Annual Review of Sociology 27, 415–444 (2001)
+
+Centola, D. An experimental study of homophily in the adoption of health 􀀀behavior. Science 334, 1269–1272 (2011)
+
+Twitter-retweet-stats. (2017, February 09). Retrieved December 05, 2017, from https://sysomos.com/inside-twitter/twitter-retweet-stats/
+
+Virality Prediction and Community Structure in Social Networks (Lilian Weng, Filippo Menczer & Yong-Yeol Ahn, 2013)
+
+Statistica. 2017. Number of monthly active Twitter users worldwide from 1st quarter 2010 to 3rd quarter 2017 (in millions). Retrieved from https://www.statista.com/statistics/282087/number-of-monthly-active-twitter-users
