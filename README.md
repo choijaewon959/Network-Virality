@@ -21,6 +21,7 @@ To test the simulation reasonably similar to the real world, we used the numbers
 1. Total Number of people that Donald Trump's post reaches(in addition to proportion of the population).
 2. Finding out the factor the most influential variable that affects the total number of people who would have seen the post.
 
+![screenshot](https://github.com/choijaewon959/Network-Viralityhttps://github.com/choijaewon959/Network-Virality
 
 # Flow of our model
 1. Ath the beginning, people who have initially shared the post are red in color.
