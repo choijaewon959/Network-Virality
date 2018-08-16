@@ -44,7 +44,7 @@ blue: a person who has not seen the post yet.
 # Results
 * Number of green Nodes at the end = the total number of people who have seen the post
 * The most significant input = initial outbreak size
-![results]https://github.com/choijaewon959/Network-Virality/blob/master/Simulation_result.PNG
+![results](https://github.com/choijaewon959/Network-Virality/blob/master/Simulation_result.PNG)
 
 # Limitations
 One is that the population is assumed to be a mere 500 in our simulation model. In reality, however, the total number of Twitter users have reached 330 million as of the third quarter of 2017. Similarly, the initial size and the probability of reposting in the model may deviate significantly from the real-world values, as they are chosen based on our subjective judgements. Another limitation is that, in our model, every node has the same number of node degree. On the contrary, the real world resembles a small-world network, where a few people are hugely influential while the majority have little influence. Also, as we all know, people are less likely to share a post as time elapses. The value we have chosen for this decrease in the probability of sharing may not correspond to the real-world value.
