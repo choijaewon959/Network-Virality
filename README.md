@@ -21,7 +21,7 @@ To test the simulation reasonably similar to the real world, we used the numbers
 1. Total Number of people that Donald Trump's post reaches(in addition to proportion of the population).
 2. Finding out the factor the most influential variable that affects the total number of people who would have seen the post.
 
-![screenshot](https://github.com/choijaewon959/Network-Virality/Simulation_screenshot.PNG)
+![screenshot](https://github.com/choijaewon959/Network-Virality/master/Simulation_screenshot.PNG)
 red: a person who has shared the post
 green: a person who has seen the post, so already decided whether to share the post or not.
 blue: a person who has not seen the post yet.
