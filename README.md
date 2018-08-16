@@ -6,7 +6,7 @@ Simulation of how information spreads with different initial variables.
 # How to use
 1. Go to link https://ccl.northwestern.edu/netlogo/
 2. Download the netlogo for desktop
-3. Copy and paste the code from network.netlogo
+3. Copy and paste the code from network.nlogo in this repository
 4. Test the outcomes with different inputs of number of nodes in different topology of the information network, average node degree that represents the average number of neighbors of each node, initial outbreak size that represents the initial number of nodes(people) who have exposed to the information, probability of repost represents that estimated number value of willingness of people to repost the information.
 
 # Inputs
