@@ -21,6 +21,11 @@ To test the simulation reasonably similar to the real world, we used the numbers
 1. Total Number of people that Donald Trump's post reaches(in addition to proportion of the population).
 2. Finding out the factor the most influential variable that affects the total number of people who would have seen the post.
 
+![screenshot](https://github.com/choijaewon959/Network-Virality/blob/master/Simulation_screenshot.PNG)
+red: a person who has shared the post
+green: a person who has seen the post, so already decided whether to share the post or not.
+blue: a person who has not seen the post yet.
+* different shapes of node represent the different topology.
 
 # Flow of our model
 1. Ath the beginning, people who have initially shared the post are red in color.
@@ -28,3 +33,14 @@ To test the simulation reasonably similar to the real world, we used the numbers
 3. They can choose to share the post or not.
 4. Node that initially shared the post will turn into green because node already made the decesion.
 5. Iterate until no more post is shared.
+
+# default constants
+* Number of node = 500
+* Average Node Degree = 1%
+* Initial outbreak size = 5%
+* Probability of repost = 30%
+* Probability of unpost = 70% (1 - probability of repost)
+
+# Results
+* Number of green Nodes at the end = the total number of people who have seen the post
+* The most significant input = initial outbreak size
