@@ -1,7 +1,5 @@
 # Network-Virality
-Simulation of how information spreads with different initial variables. 
-
-
+Simulation of how information spreads in network theories with different initial variables. This can be used to test which inputs have the most significant influence over the total number of people who would have seen the twitter post after a few time, regarding the fact that post normally would not spread after a long time.
 
 # How to use
 1. Go to link https://ccl.northwestern.edu/netlogo/
